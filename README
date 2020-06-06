@@ -1,0 +1,12 @@
+The aim in developing this animation was to simulate the
+working of the RAINWATER HARVESTING by applying the OpenGL
+skills we learnt in class. And in doing so, we understand better the
+algorithms and the techniques underlying interactive graphics.
+
+This animation will incorporate features like keyboard interface,
+rotation of square, translation of the objects. The Keyboard interface will be
+used to show various stages of the animation. The Translation technique is
+used to show the flow of water and for rainfall, the rotation technique is
+used to show the motor works, and we change the co-ordinates of rectangle
+to show the increase and decreasing of level of water.
+This animation is extremely user friendly as it requires only keyboard interface.
